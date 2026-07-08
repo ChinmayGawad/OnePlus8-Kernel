@@ -1,0 +1,9 @@
+out/
+build/
+*.img
+*.zip
+*.tar
+*.tar.gz
+*.log
+.cache/
+ccache/ 
